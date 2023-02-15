@@ -1,7 +1,7 @@
 {
-  "name": "telebot-vercel-template",
+  "name": "telebot-vercel",
   "version": "1.0.2",
-  "author": "PonomareVlad",
+  "author": "HroshevIvan",
   "scripts": {
     "dev": "vc dev",
     "tunnel": "lt --port 3000 & vc dev"
