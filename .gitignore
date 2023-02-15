@@ -1,4 +1,4 @@
 .vercel
-
-# Project exclude paths
+.env
 /node_modules/
+**/package-lock.json
